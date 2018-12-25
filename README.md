@@ -1,10 +1,9 @@
 # spirit-quake-maps-gpl
 The sources of my maps or levels for the Quake series FPS games, published under the GPL.
 
-
 # About
 
-Quite a few years ago, I worked on creating custom maps for the Quake series of first person shooter (FPS) games. This repository contains the sources (the .map files) for all my maps, releases under the very permissive GNU Public License 2.0.
+Quite a few years ago, I worked on creating custom maps for the Quake series of first person shooter (FPS) games. This repository contains the sources (the .map files) for all my maps, releases under the GNU Public License 2.0. See the LICENSE file in this repo for the full license text.
 
 
 # How to use this repo
@@ -24,9 +23,9 @@ The map files can be opened and modified in popular level editors like TrenchBro
 
 This repo contains only my work, the map files. It does **not** contain the assets used by the maps (textures, sounds, models) as these were not made by me in most cases and are thus not available under the GPL license (at least not from me).
 
-## Who made the assets like textures and sounds? What is the license?
+## Who made the assets like textures and sounds? What is the license for them?
 
-This differs for the assets of each map, and many maps use assets from several authors. See the README files of the full released version of the maps at http://maps.rcmd.org for each map. Some maps also use textures from the base game. In general, it is pretty safe to assume that you will need to replace all assets if you want to build a version of the map that could be released under the GPL as a whole. This is also the way it is done in projects like OpenArena that ship with modified versions of my maps.
+This differs for the assets of each map, and many maps use assets from several authors. See the README files of the full released version of the maps at http://maps.rcmd.org for each map. Some maps also use textures from the base game (these are never included in the download and may show up blank if you do not have the full game). In general, it is pretty safe to assume that you will need to replace all assets if you want to build a version of the map that could be released under the GPL as a whole. This is also the way it is done in projects like OpenArena that ship with modified versions of my maps.
 
 ## I want to make a change and then get a new playable version of the map, using the textures and assets from the original version of the map. How can I do that?
 
@@ -34,7 +33,7 @@ In that case you will need to download the full map (pak/pk3 file in the zip) fr
 
 Then extract the pak/pk3 file into your mapping work space (usually in the Quake game directory) **preserving** the paths in the zip. This ensures that all assets get extracted and are placed where the maps expects them.
 
-When you now open the map in your level editor of choice, all the textures and other assets should show up. After making your changes, you need to recompile that map to a bsp file. Your editor should allow you to do this. For some maps, I have documented the compilation settings I used in the README file for the map. If I didn't, you'll have to figure something out yourself (this also depends on the bsp tool you use, so you will most likely have to do this anyway to get good results).
+When you now open the map in your level editor of choice, all the textures and other assets should show up. After making your changes, you need to recompile that map to a bsp file. Your editor should allow you to do this. For some maps, I have documented the compilation settings I used in the README file for the map. If I didn't, you'll have to figure something out yourself (the settings also depend on the bsp tool you use, so you will most likely have to do this anyway to get good results).
 
 **Important:** Please rename the bsp file and the zip file to a new name before distributing modified versions of the map! The GPL also requires you to do this: you are not allowed to make changes to the map and pretend this new version was made by me!
 
