@@ -1,9 +1,11 @@
 # spirit-quake-maps-gpl
-The sources of my maps or levels for the Quake series FPS games, published under the GPL.
+The sources of my maps or levels for the Quake series FPS games, published under the [GPL](LICENSE).
+
+![quake_maps](./spirit_quake_maps.png?raw=true "Quake maps by spirit")
 
 # About
 
-Quite a few years ago, I created some custom maps for the Quake series of first person shooter (FPS) games. This repository contains the sources (the .map files) for all my maps, releases under the GNU Public License 2.0. See the LICENSE file in this repo for the full license text.
+Quite a few years ago, I created some custom maps for the Quake series of first person shooter (FPS) games. This repository contains the sources (the .map files) for all my maps, releases under the GNU Public License 2.0. See the [LICENSE](LICENSE) file in this repo for the full license text.
 
 
 # How to use this repo
@@ -13,11 +15,11 @@ Here are some answers to questions you may have regarding this repo.
 
 ## I just want to play the maps - what should I do?
 
-You have come to the wrong place. To get compiled versions of the maps including all assets, download the pak files at http://maps.rcmd.org and read the installation instructions in the README file for each map. You cannot use the source files in this repo to play.
+You have come to the wrong place. To get compiled versions of the maps including all assets, download the pak files at [http://maps.rcmd.org](maps.rcmd.org) and read the installation instructions in the README file for each map. You cannot use the source files in this repo to play.
 
 ## How to load or modify these maps?
 
-The map files can be opened and modified in popular level editors like TrenchBroom or GtkRadiant.
+The map files can be opened and modified in popular level editors like [TrenchBroom](http://kristianduske.com/trenchbroom/) or [GtkRadiant](https://icculus.org/gtkradiant/).
 
 ## What exactly is included in this repo?
 
@@ -25,11 +27,13 @@ This repo contains only my work, the map files. It does **not** contain the asse
 
 ## Who made the assets like textures and sounds? What is the license for them?
 
-This differs for the assets of each map, and many maps use assets from several authors. See the README files of the full released version of the maps at http://maps.rcmd.org for each map. Some maps also use textures from the base game (these are never included in the download and may show up blank if you do not have the full game). In general, it is pretty safe to assume that you will need to replace all assets if you want to build a version of the map that could be released under the GPL as a whole. This is also the way it is done in projects like OpenArena that ship with modified versions of my maps.
+This differs for the assets of each map, and many maps use assets from several authors. See the README files of the full released version of the maps at http://maps.rcmd.org for each map. Some maps also use textures from the base game (these are never included in the download and may show up blank if you do not have the full game).
+
+In general, it is pretty safe to assume that you will need to replace all assets if you want to build a version of the map that could be released under the GPL as a whole. This is also the way it is done in projects like OpenArena that ship with modified versions of my maps.
 
 ## I want to make a change and then get a new playable version of the map, using the textures and assets from the original version of the map. How can I do that?
 
-In that case you will need to download the full map (pak/pk3 file in the zip) from http://maps.rcmd.org to get the assets, and the source file from this repo (unless it is already included in the download, which should be the case for most maps).
+In that case you will need to download the full map (pak/pk3 file in the zip) from http://maps.rcmd.org to get the assets, and the source file from this repo (unless it is already included in the full map download, which should be the case for most maps).
 
 Then extract the pak/pk3 file into your mapping work space (usually in the Quake game directory) **preserving** the paths in the zip. This ensures that all assets get extracted and are placed where the maps expects them.
 
@@ -41,12 +45,12 @@ In the Quake community, it is common to give the map your name, so *spirit3dm2* 
 
 ## Do I need to ask the author to create something new based on these maps?
 
-No. Just make sure you understand the GPL license, it's not that hard. If you made something cool, I'd be happy to hear about it though.
+No, they are already published under a free software license. Just make sure you understand the GPL license, it's not that hard. If you made something cool, I'd be happy to hear about it though.
 
 ## Have some of these maps been used under the GPL already?
 
-Yes, OpenArena has a version of spirit3ctfduel1 and Negke made an impressive single-player conversion of spirit1dm3. Some of my Quake 2 maps have been converted for Kingpin, and some people have written me to show screenshots of new versions of various Quake 3 and Quake 2 maps I made. My map spirit2dm2 is part of Quetoo, formerly known as Quake2World.
+Yes, OpenArena has [a version of spirit3ctfduel1](http://openarena.wikia.com/wiki/Maps/oa_spirit3) and Negke made [an impressive single-player conversion of spirit1dm3](http://maps.rcmd.org/quake1/spirit1dm3/negke_sp_remix/spirit1dm3sp.zip). Some of my Quake 2 maps have been converted for Kingpin by Mr. Damage, and some people have written me to show screenshots of new versions of various Quake 3 and Quake 2 maps I made. My map spirit2dm2  is part of [Quetoo, formerly known as Quake2World](http://quetoo.org/). The version was built by jdolan and me, it is known as [(In) the arms of Lilith](http://quetoo.org/books/media/arms-lilith-spirit).
 
 ## My question has not been addressed. How to contact the author?
 
-See http://maps.rcmd.org
+See the contact page at [http://maps.rcmd.org](maps.rcmd.org).
