@@ -49,7 +49,7 @@ No, they are already published under a free software license. Just make sure you
 
 ## Have some of these maps been used under the GPL already?
 
-Yes, OpenArena has [a version of spirit3ctfduel1](http://openarena.wikia.com/wiki/Maps/oa_spirit3) and Negke made [an impressive single-player conversion of spirit1dm3](http://maps.rcmd.org/quake1/spirit1dm3/negke_sp_remix/spirit1dm3sp.zip). Some of my Quake 2 maps have been converted for Kingpin by Mr. Damage, and some people have written me to show screenshots of new versions of various Quake 3 and Quake 2 maps I made. My map spirit2dm2  is part of [Quetoo, formerly known as Quake2World](http://quetoo.org/). The version was built by jdolan and me, it is known as [(In) the arms of Lilith](http://quetoo.org/books/media/arms-lilith-spirit).
+Yes, OpenArena has [a version of spirit3ctfduel1](http://openarena.wikia.com/wiki/Maps/oa_spirit3) and Negke made [an impressive single-player conversion of spirit1dm3](http://maps.rcmd.org/quake1/spirit1dm3/negke_sp_remix/spirit1dm3sp.zip). Some of my Quake 2 maps have been converted for Kingpin by [Mr. Damage](http://kingpin.info/), and some people have written me to show screenshots of new versions of various Quake 3 and Quake 2 maps I made. My map spirit2dm2 is part of [Quetoo, formerly known as Quake2World](http://quetoo.org/). The version was built by jdolan and me, it is known as [(In) the arms of Lilith](http://quetoo.org/books/media/arms-lilith-spirit). And Ricardo Stevens made a custom version of spirit3t3a and included it in [his Uber Arena mod](https://www.moddb.com/mods/uber-arena/) for Q3A.
 
 ## My question has not been addressed. How to contact the author?
 
