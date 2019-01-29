@@ -15,7 +15,7 @@ Here are some answers to questions you may have regarding this repo.
 
 ## I just want to play the maps - what should I do?
 
-You have come to the wrong place. To get compiled versions of the maps including all assets, download the pak files at [http://maps.rcmd.org](maps.rcmd.org) and read the installation instructions in the README file for each map. You cannot use the source files in this repo to play.
+You have come to the wrong place. To get compiled versions of the maps including all assets, download the pak files at http://maps.rcmd.org and read the installation instructions in the README file for each map. You cannot use the source files in this repo to play.
 
 ## How to load or modify these maps?
 
@@ -53,4 +53,4 @@ Yes, OpenArena has [a version of spirit3ctfduel1](http://openarena.wikia.com/wik
 
 ## My question has not been addressed. How to contact the author?
 
-See the contact page at [http://maps.rcmd.org](maps.rcmd.org).
+See the contact page at http://maps.rcmd.org.
