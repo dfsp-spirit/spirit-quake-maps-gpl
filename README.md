@@ -39,9 +39,13 @@ Then extract the pak/pk3 file into your mapping work space (usually in the Quake
 
 When you now open the map in your level editor of choice, all the textures and other assets should show up. After making your changes, you need to recompile that map to a bsp file. Your editor should allow you to do this. For some maps, I have documented the compilation settings I used in the README file for the map. If I didn't, you'll have to figure something out yourself (the settings also depend on the bsp tool you use, so you will most likely have to do this anyway to get good results).
 
-**Important:** Please rename the bsp file and the zip file to a new name before distributing modified versions of the map! The GPL also requires you to do this: you are not allowed to make changes to the map and pretend this new version was made by me!
+**Important: You have to rename the bsp file and the zip file to a new name before distributing modified versions of the map!** The GPL also requires you to do this: you are not allowed to make changes to the map and pretend this new version was made by me!
 
 In the Quake community, it is common to give the map your name, so *spirit3dm2* is the second Quake 3 map made by me, spirit. If you modify it and make your own version, and you are known as johndoe, name the modified map *johndoe3dm1* or similar. Also create a new README file for the map.
+
+**WARNING:** If you do not give the bsp file of your modified map version a new name and people download it, this will cause a lot of trouble for them. If they connect to a server that is running my map, the checksums of their local file and the official map file on the server will differ, and they will be disconnected. The affected players would then need to manually delete your modified map version from their Quake folder before they can reconnect to the server.
+
+If you modified or replaced any assets in your new version, you should of course also change the asset directory name (e.g., do not place assets into *textures/spiritxdmy/*, but into a new directory corresponding to your map name, e.g., *textures/johndoes3dm1*).
 
 ## Do I need to ask the author to create something new based on these maps?
 
