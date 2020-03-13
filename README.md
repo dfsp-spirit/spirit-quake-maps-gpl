@@ -57,4 +57,4 @@ Yes, OpenArena has [a version of spirit3ctfduel1](http://openarena.wikia.com/wik
 
 ## My question has not been addressed. How to contact the author?
 
-See the contact page at http://maps.rcmd.org.
+Please open an issue here on Github if you have a GitHub account. If you don't have one, see the contact page at http://maps.rcmd.org. 
