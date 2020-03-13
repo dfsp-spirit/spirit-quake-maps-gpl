@@ -5,7 +5,7 @@ The sources of my maps or levels for the Quake series FPS games, published under
 
 # About
 
-Quite a few years ago, I created some custom maps for the Quake series of first person shooter (FPS) games. This repository contains the sources (the .map files) for all my maps, releases under the GNU Public License 2.0. See the [LICENSE](LICENSE) file in this repo for the full license text.
+Quite a few years ago, I created some custom maps for the Quake series of first person shooter (FPS) games. This repository contains the sources (the .map files) for all my maps, released under the GNU Public License 2.0. See the [LICENSE](LICENSE) file in this repo for the full license text.
 
 
 # How to use this repo
