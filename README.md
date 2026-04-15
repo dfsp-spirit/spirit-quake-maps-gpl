@@ -1,6 +1,8 @@
 # spirit-quake-maps-gpl
 The sources of my maps or levels for the Quake series FPS games, published under the [GPL](LICENSE).
 
+[![DOI](https://zenodo.org/badge/163101699.svg)](https://doi.org/10.5281/zenodo.19593635)
+
 ![quake_maps](./spirit_quake_maps.png?raw=true "Quake maps by spirit")
 
 # About
